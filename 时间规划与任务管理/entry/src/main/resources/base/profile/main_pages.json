@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SchedulePage",
+    "pages/CreditPlanPage",
+    "pages/TaskBoardPage",
+    "pages/ComparePage",
+    "pages/StudyTimePage",
+    "pages/DualMajorPage",
+    "pages/ArchivePage",
+    "pages/WeeklyReviewPage",
+    "pages/OnlineCoursePage",
+    "pages/MentorPrepPage"
+  ]
+}
